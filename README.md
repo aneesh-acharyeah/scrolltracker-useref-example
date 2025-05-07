@@ -31,5 +31,5 @@ In this app, `useRef` is used to:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/scroll-tracker-app.git
+git clone https://github.com/aneesh-acharyeah/scrolltracker-useref-example.git
 cd scroll-tracker-app
